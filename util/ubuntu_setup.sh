@@ -16,7 +16,7 @@ apt-get update \
     python-dev \
     python-numpy \
     python-opencv \
-    python-pip \
+    python-pip3 \
     python-pyexiv2 \
     python-pyproj \
     python-scipy \
