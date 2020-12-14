@@ -53,7 +53,7 @@ rm -rf /source/opengv
 
 
 # Install python requirements
-pip install exifread==2.1.2 \
+pip3 install exifread==2.1.2 \
             gpxpy==1.1.2 \
             networkx==1.11 \
             numpy \
